@@ -1,8 +1,11 @@
 # Pygame-Snakes
 
+Installation..
 
-Copy all the Files in the same folder
-
-Run snakes.py
-
-Enjoy the Game!
+	Install pygame :- pip install pygame
+	
+	Copy all the file in same folder
+	
+	Run snakes.py
+	
+	Enjoy the game!
